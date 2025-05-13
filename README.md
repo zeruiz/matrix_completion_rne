@@ -1,1 +1,3 @@
-# matrix_completion_rne
+# Radial Neighborhood Smoothing Recommender System
+
+For submission.
